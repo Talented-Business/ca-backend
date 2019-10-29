@@ -1,2 +1,2 @@
 # castellium-backend
-This is the larabel backend including recurit adding, employee, job, contract, company, billing management module
+This is the laravel backend including recurit adding, employee, job, contract, company, billing management module
